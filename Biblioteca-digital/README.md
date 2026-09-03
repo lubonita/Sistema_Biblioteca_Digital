@@ -17,7 +17,7 @@ se incorpora un nuevo patrón de software sobre la misma base de código.
 
 | Semana | Patrón     | Módulo                     | Estado        |
 |--------|------------|-----------------------------|---------------|
-| 2      | Singleton  | `src/auth/SesionManager.js` | ✅ Implementado |
+| 3     | Singleton  | `src/auth/SesionManager.js` | ✅ Implementado |
 
 ## Estructura del proyecto
 
