@@ -36,7 +36,7 @@ biblioteca-digital/
   su propia carpeta temática dentro de `src/` (por ejemplo `src/libros/`,
   `src/prestamos/`, `src/recomendaciones/`, etc.).
 
-## Patrón Singleton — Semana 2
+## Patrón Singleton — Semana 3
 
 Se implementó en `SesionManager`, el módulo responsable de controlar la
 autenticación (login/logout) y el estado de la sesión activa. Se eligió
